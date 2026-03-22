@@ -500,9 +500,9 @@ Project Lead: Muhaly Ahmad Akin
 
 GitHub: @MuhalyAhmadAkin
 
-Email: [your-email@example.com]
+Email: muhalyahmadakinkunmi@gmail.com
 
-Organization: Healthcare IT Solutions, Saudi Arabia
+Organization: Independent Healthcare Data Scientist, Open to Saudi Arabia Oportunities
 
 Get Support
 📧 Issues: Open a GitHub issue for bugs and feature requests
